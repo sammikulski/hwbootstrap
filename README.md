@@ -1,7 +1,7 @@
 # Homework Bootstrap
 Goals: Gain hands-on experience in Bootstrap to be prepared for developing your Client Project UI. 
 
-Based on Bootstrap introduction in Lab, complete the following assignment.  You are to build a web application, using Bootstrap, with 3 pages – topic of your choice. **You may not** use your Capstone project, another group’s Capstone project, or the sytem used in the homework project. 
+Based on Bootstrap introduction in Lab, complete the following assignment.  You are to build a web application, using Bootstrap, with 3 pages – topic of your choice. **You may not** use your Capstone project, another group’s Capstone project, or the system used in the homework project. 
 
 # Requirements: 
 1. **Login Page**
