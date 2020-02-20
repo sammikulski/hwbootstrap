@@ -17,6 +17,6 @@ Based on Bootstrap introduction in Lab, complete the following assignment.  You 
 
 ## Keep in Mind:
 1.	Must have site-wide navigation. You can do it along the top, or on the side. Keep in mind you may add onto the navigation in later assignments. 
-2.	Must have a footer. 
+2.	Must have a header and a footer. 
 3.	Try to incorporate a Temple Logo or Temple ‘T’ as a “brand” in your navigation bar or footer. 
 4.	You must use Master/Content pages, remember the advantages you discovered in Individual Assignment 3. 
